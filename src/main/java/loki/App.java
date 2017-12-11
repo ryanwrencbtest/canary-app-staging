@@ -2,7 +2,7 @@ package loki;
 
 /**
  * Hello world Application!
- *
+ * For testing
  */
 public class App
 {
