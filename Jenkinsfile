@@ -1,4 +1,5 @@
 node {
+    //Testing this on a real cluster in AWS
     stage('checkout') {
         git 'https://github.com/ryanwren/devoptics-checkout.git'
     }
