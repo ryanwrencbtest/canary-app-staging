@@ -1,9 +1,7 @@
 package loki;
 
 /**
- * Hello world Application!
- * For testing
- * rwren
+ * Hello world Application!n
  */
 public class App
 {
