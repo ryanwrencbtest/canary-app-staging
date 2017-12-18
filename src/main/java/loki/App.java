@@ -3,6 +3,7 @@ package loki;
 /**
  * Hello world Application!
  * For testing
+ * rwren
  */
 public class App
 {
